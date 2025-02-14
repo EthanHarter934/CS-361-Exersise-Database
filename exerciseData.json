@@ -1,0 +1,11 @@
+{
+    "exercises": [
+        { "name": "Jumping Jacks", "category": "cardio" },
+        { "name": "Brisk Walking", "category": "cardio" },
+        { "name": "Cycling",       "category": "cardio" },
+        { "name": "Push-ups",      "category": "strength" },
+        { "name": "Squats",        "category": "strength" },
+        { "name": "Deadlifts",     "category": "strength" },
+        { "name": "Yoga Stretch",  "category": "flexibility" }
+    ]
+}
