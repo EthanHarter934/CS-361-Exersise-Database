@@ -44,3 +44,6 @@ fetch(`http://localhost:3000/exercises/filter?category=${category}`, {
 .then(response => response.json()) // Convert JSON object to JavaScript array
 .then(data => exercises); // Assign the data array to the exercises array
 ````
+
+### UML Sequence Diagram
+![image_2025-02-18_171638975](https://github.com/user-attachments/assets/401fba86-86db-4d68-9c21-d8b456cd0999)
